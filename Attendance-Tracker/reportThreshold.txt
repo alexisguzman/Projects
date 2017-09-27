@@ -1,0 +1,50 @@
+Record Number: 10
+ID Number: 3255
+Name: Kris Mort
+Email: mort@cpts122.edu
+Number of Credits: 4
+Major: CS
+Level: Senior
+Number of Absences: 1
+Date of Last Absence: 04/04/2017
+
+Record Number: 8
+ID Number: 1122
+Name: Jane Smith
+Email: jane@cpts122.edu
+Number of Credits: 4
+Major: CS
+Level: Sophomore
+Number of Absences: 1
+Date of Last Absence: 04/04/2017
+
+Record Number: 7
+ID Number: 7759
+Name: Theo Sam
+Email: samt@cpts122.edu
+Number of Credits: 4
+Major: EE
+Level: Sophomore
+Number of Absences: 1
+Date of Last Absence: 04/04/2017
+
+Record Number: 3
+ID Number: 1121
+Name: Timothy Leinart
+Email: tim@cpts122.edu
+Number of Credits: 4
+Major: EE
+Level: Junior
+Number of Absences: 1
+Date of Last Absence: 04/04/2017
+
+Record Number: 1
+ID Number: 1111
+Name: John Smith
+Email: smithj@cpts122.edu
+Number of Credits: 4
+Major: CS
+Level: Freshman
+Number of Absences: 1
+Date of Last Absence: 04/04/2017
+

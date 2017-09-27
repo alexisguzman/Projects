@@ -1,0 +1,115 @@
+10
+3255
+2
+Kris Mort
+mort@cpts122.edu
+4
+CS
+Senior
+04/03/2017
+04/06/2017
+
+9
+1222
+4
+Bruce Willis
+brucewillis@cpts122.edu
+AU
+CS
+Sophomore
+04/03/2017
+04/06/2017
+04/18/2017
+04/25/2017
+
+8
+1122
+1
+Jane Smith
+jane@cpts122.edu
+4
+CS
+Sophomore
+04/06/2017
+
+7
+7759
+3
+Theo Sam
+samt@cpts122.edu
+4
+EE
+Sophomore
+04/03/2017
+04/18/2017
+04/25/2017
+
+6
+5530
+2
+Ella Payton
+epayton@cpts122.edu
+4
+CPTE
+Graduate
+04/18/2017
+04/25/2017
+
+5
+2121
+4
+Hannah James
+jameshannah@cpts122.edu
+4
+CS
+Freshman
+04/03/2017
+04/06/2017
+04/18/2017
+04/25/2017
+
+4
+4478
+3
+Bruce Art
+bart@cpts122.edu
+AU
+CPTE
+Freshman
+04/03/2017
+04/06/2017
+04/18/2017
+
+3
+1121
+1
+Timothy Leinart
+tim@cpts122.edu
+4
+EE
+Junior
+04/25/2017
+
+2
+8147
+2
+Sara Beck
+sara@cpts122.edu
+4
+EE
+Junior
+04/03/2017
+04/25/2017
+
+1
+1111
+3
+John Smith
+smithj@cpts122.edu
+4
+CS
+Freshman
+04/03/2017
+04/06/2017
+04/18/2017
+
